@@ -24,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimra-niamat&show_icons=true&locale=en" alt="nimra-niamat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nimra-niamat&" alt="nimra-niamat" /></p>
+
