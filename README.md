@@ -48,7 +48,7 @@
 
 ![Snake Animation](https://github.com/Nimra-Niamat/Nimra-Niamat/blob/output/github-contribution-grid-snake.gif)
 
----
+
 
 ### 🚀 Fun Fact:
 _"A smooth sea never made a skilled sailor."_ 🌊
