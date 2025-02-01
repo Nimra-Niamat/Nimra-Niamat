@@ -46,7 +46,6 @@
 
 
 
-![Snake Animation](https://github.com/Nimra-Niamat/Nimra-Niamat/blob/output/github-contribution-grid-snake.gif)
 
 
 
