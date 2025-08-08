@@ -1,4 +1,5 @@
-![logo](https://github.com/Nimra-Niamat/Nimra-Niamat/blob/main/%20banner.png)
+![logo](https://raw.githubusercontent.com/Nimra-Niamat/Nimra-Niamat/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Nimra Niamat</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
