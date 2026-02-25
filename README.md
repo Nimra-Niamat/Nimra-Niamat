@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Nimra-Niamat/Nimra-Niamat/main/banner.png)
 
-<h1 align="center">Hi 👋, I'm Nimra Niamat</h1>
+<h1 align="center">Hi, I'm Nimra Niamat</h1>
 <h3 align="center">A Passionate Software Engineer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 
@@ -9,10 +9,13 @@
 ---
 
 ### 🌟 About Me:
-- 🔭 **Exploring** cutting-edge technologies in Software Development.  
-- 🌱 Currently learning **Data Structures and Algorithms** to refine my problem-solving skills.  
-- 💼 Aspiring to contribute to impactful projects.  
-- 📫 Reach me at **mahernimra503@gmail.com**.
+
+--I’m currently a Software Engineering student at **COMSATS Lahore**. Most of my days are spent between university labs, where I'm constantly learning new ways to build better software.
+
+### 🛠️ What I'm focused on right now:
+*   **Mental Health Tech:** I’m currently building the web version of a therapy app. I believe technology should do more than just solve logic problems—it should help people feel better. 
+*   **Research:** I'm part of a research group led by **Dr. Ghulam Rasool**.
+
 
 ---
 
