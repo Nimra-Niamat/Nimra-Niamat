@@ -37,7 +37,7 @@ I’m currently a Software Engineering student at **COMSATS Lahore**. Most of my
   </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg" alt="Java" width="40" height="40"/> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Python/Python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
 </p>
 
