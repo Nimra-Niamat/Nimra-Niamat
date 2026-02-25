@@ -15,7 +15,7 @@ I’m currently a Software Engineering student at **COMSATS Lahore**. Most of my
 ### 🛠️ What I'm focused on right now:
 *   **Mental Health Tech:** I’m currently building the web version of a therapy app. I believe technology should do more than just solve logic problems—it should help people feel better. 
 *   **Research:** I'm part of a research group led by **Dr. Ghulam Rasool**.
-*   **Community:** Active member of the **Google Developer Groups (GDG)** at COMSATS, staying at the forefront of emerging technologies.
+*   **Community:** Active member of the **Google Developer Groups (GDGoC)** at COMSATS, staying at the forefront of emerging technologies.
 
 
 ---
